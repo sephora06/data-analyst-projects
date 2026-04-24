@@ -51,3 +51,4 @@ Concevoir et analyser une base de données relationnelle pour une plateforme de 
 - MySQL
 - phpMyAdmin
 - Tableau
+- draw.io (modélisation UML)
