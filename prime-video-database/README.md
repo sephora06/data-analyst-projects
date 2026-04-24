@@ -33,13 +33,13 @@ Voici quelques analyses réalisées avec Tableau :
 - Identification des mois avec le plus de visionnage
 - Mise en évidence des contenus les plus populaires pour chaque période
 
-![Visionnage par mois](Top_des_genre_des_oeuvres_parpays.jpg)
+![Visionnage par mois](mois_avec_plus_visionnage.png)
 
 ###  Analyse des genres par pays
 - Comparaison des préférences culturelles selon les pays
 - Identification des genres dominants (anime, humour, action, etc.)
 
-![Genres par pays](top_des_genre.jpg)
+![Genres par pays](top_genre_pays.png)
 
 ## Outils
 - MySQL / SQL
