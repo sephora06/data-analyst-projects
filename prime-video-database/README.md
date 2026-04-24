@@ -27,10 +27,19 @@ Concevoir et analyser une base de données pour une plateforme de streaming afin
 
 ## Visualisations
 
-Voici quelques visualisations réalisées avec Tableau :
+Voici quelques analyses réalisées avec Tableau :
 
-![Top genres par pays](Top_des_genre_des_oeuvres_parpays.jpg)
-![Analyse des genres](top_des_genre.jpg)
+###  Analyse des visionnages par mois
+- Identification des mois avec le plus de visionnage
+- Mise en évidence des contenus les plus populaires pour chaque période
+
+![Visionnage par mois](Top_des_genre_des_oeuvres_parpays.jpg)
+
+###  Analyse des genres par pays
+- Comparaison des préférences culturelles selon les pays
+- Identification des genres dominants (anime, humour, action, etc.)
+
+![Genres par pays](top_des_genre.jpg)
 
 ## Outils
 - MySQL / SQL
