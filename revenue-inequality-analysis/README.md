@@ -23,29 +23,30 @@ Le revenu moyen varie selon les régions :
 - Zurich et la région centrale ont les revenus les plus élevés
 - Le Tessin et certaines régions ont des revenus plus faibles
 
-👉 Cela montre une forte inégalité géographique.
+Cela montre une forte inégalité géographique.
 
 ### 2. Éducation et revenu
 Contrairement aux attentes :
 - Les régions avec le plus haut niveau d’éducation ne sont pas celles avec les revenus les plus élevés  
 - Exemple : certaines régions très éduquées ont des revenus plus faibles que Zurich  
 
-👉 Le niveau d’éducation n’explique pas directement les revenus.
+Les résultats suggèrent qu’il n’existe pas de relation directe évidente entre le niveau d’éducation et le revenu selon les régions.
 
 ### 3. Âge et expérience
 La régression linéaire montre :
 - une corrélation faible entre âge et revenu  
 - une relation presque inexistante  
 
-👉 L’expérience n’explique pas significativement les revenus.
+L’expérience n’explique pas significativement les revenus.
 
 ### 4. Type de ménage (facteur clé)
 C’est le facteur le plus important :
 
 - Les couples ont les revenus les plus élevés  
-- Les personnes seules et familles monoparentales ont des revenus plus faibles  
+- Les personnes seules et familles monoparentales ont des revenus plus faibles
+- Ces observations sont confirmées par la visualisation du revenu moyen par type de ménage.
 
-👉 Explication :
+Explication :
 - partage des charges
 - double source de revenu
 
