@@ -45,7 +45,14 @@ C’est le facteur le plus important :
 - Les couples ont les revenus les plus élevés  
 - Les personnes seules et familles monoparentales ont des revenus plus faibles
 - Ces observations sont confirmées par la visualisation du revenu moyen par type de ménage.
+  
+### Répartition des types de ménage par région
+- Les types de ménages varient selon les régions
+- Certaines régions comptent davantage de couples, tandis que d’autres ont plus de personnes seules ou de familles monoparentales
 
+👉 Cette répartition contribue à expliquer les différences de revenus observées entre les régions.
+
+![Répartition des ménages](nom_de_ton_image.png)
 Explication :
 - partage des charges
 - double source de revenu
