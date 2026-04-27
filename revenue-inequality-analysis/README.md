@@ -66,7 +66,7 @@ Ces résultats suggèrent que :
 
 ## Visualisations
 
-### Revenu moyen par région
+### Type de ménage par région
 ![Revenu par région](distribution_menage.png)
 
 ### Niveau d’éducation par région
