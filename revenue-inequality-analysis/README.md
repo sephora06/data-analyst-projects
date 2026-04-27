@@ -66,16 +66,16 @@ Ces résultats suggèrent que :
 ## Visualisations
 
 ### Revenu moyen par région
-![Revenu par région](nom_image1.png)
+![Revenu par région](distribution_menage.png)
 
 ### Niveau d’éducation par région
-![Éducation](nom_image2.png)
+![Éducation](niveau_education_menage.png)
 
 ### Revenu selon l’âge
-![Régression âge revenu](nom_image3.png)
+![Régression âge revenu](distribution_revenu_age.png)
 
 ### Revenu selon le type de ménage
-![Type de ménage](nom_image4.png)
+![Type de ménage](distribution_revenu_menage.png)
 
 ## Technologies
 - Python / Jupyter Notebook
