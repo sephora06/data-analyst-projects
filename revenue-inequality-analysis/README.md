@@ -76,7 +76,7 @@ Le type de ménage apparaît comme le facteur le plus explicatif :
 
 Ces résultats sont confirmés par l’analyse du revenu moyen selon le type de ménage.
 
-![Revenu selon le type de ménage](revenu_moyen_menage.png)
+![Revenu selon le type de ménage](distribution_revenu_menage.png)
 
 ---
 
