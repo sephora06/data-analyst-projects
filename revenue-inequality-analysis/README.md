@@ -39,7 +39,7 @@ Le revenu moyen varie fortement selon les régions :
 
 Ces observations mettent en évidence des inégalités géographiques importantes.
 
-![Revenu par région](distribution_revenu_region.png)
+![Revenu par région](distribution_revenu_menage.png)
 
 ---
 
