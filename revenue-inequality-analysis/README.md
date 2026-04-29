@@ -117,11 +117,12 @@ Les résultats suggèrent que :
 ## Reproduction de l’analyse
 
 1. Ouvrir le fichier `analysis.ipynb`
-2. Installer les bibliothèques nécessaires :
+2. Ajouter le fichier `donnees_fors1.csv`au dossier
+3. Installer les bibliothèques nécessaires :
    - pandas
    - matplotlib
    - seaborn
-3. Exécuter les cellules pour reproduire les graphiques
+4. Exécuter les cellules pour reproduire les graphiques
 
 ---
 
