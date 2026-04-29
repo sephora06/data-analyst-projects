@@ -51,7 +51,7 @@ Contrairement aux attentes :
 
 Les résultats suggèrent qu’il n’existe pas de relation directe évidente entre le niveau d’éducation et le revenu.
 
-![Niveau d’éducation par région](niveau_education_menage.png)
+![Niveau d’éducation par région](niveau_education_region.png)
 
 ---
 
