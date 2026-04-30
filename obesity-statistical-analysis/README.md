@@ -46,8 +46,9 @@ Les calculs ont été réalisés avec le langage **R**.
 
 ## Fichiers du projet
 
-- `analysis.R` : code complet de l’analyse statistique  
-- `rapport.pdf` : rapport détaillé avec interprétation des résultats  
+- `Code_Dent_Blanche.R` : code complet de l’analyse statistique  
+- `rapport.pdf` : rapport détaillé avec interprétation des résultats
+- `DataBaseDentBlanche.csv`: base de données
 
 ---
 
